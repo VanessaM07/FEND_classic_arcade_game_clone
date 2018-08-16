@@ -1,4 +1,4 @@
-# Arcade-game
+# Arcade-game :video_game:
 
 This is the 5th project for the Udaicty Front-End Web Development Nanodgree. The goal is to create a clone of the classic arcade frogger game using the newly acquired skills in Object Oriented JS and HTML5 Canvas. Images and a game loop engine are provided. The rest should be built in app.js file! The requirements for this projects are:
 
