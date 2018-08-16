@@ -16,6 +16,8 @@ To run the application clone the repository to your computer:
 
 Then open the `index html` in your browser.
 
+You can follow this [link](https://vanessamollisi.github.io/classic_arcade_game_clone/) to play it.
+
 ## How to play it:
 
 Use the following keys to move the player:
